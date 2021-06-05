@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there it's me Kishor 👋
 
 <!--
 **kishor-karki-k2/kishor-karki-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+checkout my portfolio page at 👉http://karkikishor.com.np/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
