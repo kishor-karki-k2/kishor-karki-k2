@@ -12,7 +12,9 @@ checkout my portfolio page at 👉http://karkikishor.com.np/
 
 <img src="https://github-readme-stats.vercel.app/api?username=kishor-karki-k2&&show_icons=true&title_color=3ab608&icon_color=f36100&text_color=daf7dc&bg_color=001c27">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-karki-k2&layout=compact)](https://github.com/kishor-karki-k2/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishor-karki-k2&layout=compact&title_color=3ab608&icon_color=f36100&text_color=daf7dc&bg_color=001c27">
+
+
 
 
 
