@@ -1,7 +1,5 @@
 ### Hi there it's me Kishor 👋
 
-<!--
-**kishor-karki-k2/kishor-karki-k2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 checkout my portfolio page at 👉http://karkikishor.com.np/
 
 - 🔭 I’m currently working on ...
@@ -12,4 +10,4 @@ checkout my portfolio page at 👉http://karkikishor.com.np/
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
