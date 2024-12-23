@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kishor karki!
 
 
-Click here to check my website -----> [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=flutter)](https://kishorkarki-2053.web.app)
+Click here to check my website -----> [![Website](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=flutter)](https://kishorkarki-2053.web.app)
 
 ## 🚀 About Me
 <div align="justify"> 
