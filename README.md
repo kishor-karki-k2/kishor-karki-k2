@@ -34,7 +34,7 @@ My involvement in academic and extracurricular projects has allowed me to develo
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project&theme=radical)](https://github.com/yourusername/project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kishor_karki_k2&repo=project&theme=radical)](https://github.com/kishor_karki_k2/project)
 
 ---
 
