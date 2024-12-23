@@ -18,7 +18,9 @@ My involvement in academic and extracurricular projects has allowed me to develo
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
 <!-- Add more badges as needed -->
@@ -38,7 +40,7 @@ My involvement in academic and extracurricular projects has allowed me to develo
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishor-karki-3861a3199)
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://https://kishorkarki-2053.web.app)
 
 ---
 
