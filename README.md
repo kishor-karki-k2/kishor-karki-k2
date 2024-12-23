@@ -29,8 +29,8 @@ My involvement in academic and extracurricular projects has allowed me to develo
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kishor_karki_k2&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor_karki_k2&layout=compact&theme=radical)
 
 ---
 
@@ -40,7 +40,7 @@ My involvement in academic and extracurricular projects has allowed me to develo
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishor-karki-3861a3199)
-[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://https://kishorkarki-2053.web.app)
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://kishorkarki-2053.web.app)
 
 ---
 
