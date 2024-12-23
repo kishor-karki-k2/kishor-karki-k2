@@ -2,6 +2,8 @@
 
 ![Profile Banner](https://your-banner-url.com) <!-- Add a cool custom banner -->
 
+[![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=flutter)](https://kishorkarki-2053.web.app)
+
 ## 🚀 About Me
 I am Kishor Karki, a dedicated and results-driven IT enthusiast with a strong leadership background and critical thinking skills. My experience spans various aspects of software development and management, demonstrating my adaptability and commitment to learning. I am actively seeking opportunities in the IT sector that align with my skills and interests.
 
@@ -30,7 +32,7 @@ My involvement in academic and extracurricular projects has allowed me to develo
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kishor-karki-k2&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor_karki_k2&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishor-karki-k2&layout=compact&theme=radical)
 
 ---
 
