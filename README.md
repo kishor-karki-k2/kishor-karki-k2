@@ -1,22 +1,23 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Kishor karki!
 
 ![Profile Banner](https://your-banner-url.com) <!-- Add a cool custom banner -->
 
 ## 🚀 About Me
-I’m a [Your Job Title/Field] with a passion for [Your Interests, e.g., software development, open-source, AI, etc.]. I enjoy solving challenging problems and building innovative solutions.
+I am Kishor Karki, a dedicated and results-driven IT enthusiast with a strong leadership background and critical thinking skills. My experience spans various aspects of software development and management, demonstrating my adaptability and commitment to learning. I am actively seeking opportunities in the IT sector that align with my skills and interests.
 
-- 🌱 I’m currently learning **[Technology or Skill]**  
-- 💬 Ask me about **[Topics you're knowledgeable about]**  
-- 📫 Reach me at: [Your Email]  
-- ⚡ Fun fact: [A unique or interesting personal fact]  
+Passionate and enthusiastic, I am driven by my interests and strive to make decisions that reflect my independence and courage. As a diligent student, I have consistently received commendations for my hard work from both teachers and peers.
+
+My involvement in academic and extracurricular projects has allowed me to develop and demonstrate effective communication, management, and teamwork skills. I am excited to bring these skills to future endeavors and contribute positively to the IT industry.
+
+ 
+- 📫 Reach me at: kishorkarki53@gmail.com
+- ⚡ Fun fact: I am good at drawing. 
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-square&logo=visual-studio-code)
@@ -31,24 +32,12 @@ I’m a [Your Job Title/Field] with a passion for [Your Interests, e.g., softwar
 
 ---
 
-## 🏆 Achievements
-- 🥇 [Achievement or Recognition]
-- 🌟 Maintainer of [Your Open Source Project]
-
----
-
-## 📂 Featured Projects
-
-### 🌟 [Project Name](https://github.com/yourusername/project)
-> A brief description of what the project does.
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project&theme=radical)](https://github.com/yourusername/project)
 
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishor-karki-3861a3199)
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github)](https://yourwebsite.com)
 
 ---
