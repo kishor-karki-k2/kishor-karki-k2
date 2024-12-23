@@ -7,9 +7,12 @@
 <div align="justify"> 
 A passionate IT enthusiast with a background in leadership, critical thinking, and software development. I excel in communication, management, and teamwork, with a commitment to continuous learning.</div>
 
+---
+
 💻 **Open to Opportunities:**  
 Eager to apply my skills and contribute to impactful projects in the IT industry!  
 
+---
  
 - 📫 Reach me at: kishorkarki53@gmail.com
 - ⚡ Fun fact: I am good at drawing. 
