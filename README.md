@@ -1,19 +1,14 @@
 # 👋 Hello, I'm Kishor karki!
 
-![Profile Banner](https://imgur.com/a/edLTvey) <!-- Add a cool custom banner -->
 
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=flutter)](https://kishorkarki-2053.web.app)
 
 ## 🚀 About Me
 <div align="justify"> 
-A passionate IT enthusiast with a background in leadership, critical thinking, and software development. I excel in communication, management, and teamwork, with a commitment to continuous learning.
- 
-<br>
+A passionate IT enthusiast with a background in leadership, critical thinking, and software development. I excel in communication, management, and teamwork, with a commitment to continuous learning.</div>
 
 💻 **Open to Opportunities:**  
 Eager to apply my skills and contribute to impactful projects in the IT industry!  
-
-Let me know if this works or if you'd like further adjustments!</div>
 
  
 - 📫 Reach me at: kishorkarki53@gmail.com
