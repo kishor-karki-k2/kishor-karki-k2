@@ -36,10 +36,6 @@ My involvement in academic and extracurricular projects has allowed me to develo
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kishor-karki-k2&repo=project&theme=radical)](https://github.com/kishor-karki-k2/project)
-
----
-
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishor-karki-3861a3199)
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=flutter)](https://kishorkarki-2053.web.app)
