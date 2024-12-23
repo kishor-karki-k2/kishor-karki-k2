@@ -44,4 +44,4 @@ Eager to apply my skills and contribute to impactful projects in the IT industry
 
 ---
 
-🌟 _Star this repository if you find it helpful!_ 🌟
+🌟 Thank You🌟
