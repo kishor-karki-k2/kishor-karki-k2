@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kishor karki!
 
-![Profile Banner](https://kishorkarki-2053.web.app) <!-- Add a cool custom banner -->
+![Profile Banner](https://imgur.com/a/edLTvey) <!-- Add a cool custom banner -->
 
 [![Website](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=flutter)](https://kishorkarki-2053.web.app)
 
